@@ -1,3 +1,4 @@
 ### My new Git Project
 
-Git spacca
+Git spacca, davvero!
+Git is cool, seriously!
